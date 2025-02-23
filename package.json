@@ -1,0 +1,24 @@
+{
+  "name": "crypto-security",
+  "version": "1.0.0",
+  "description": "A simple Node.js module for encrypting and decrypting data and files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd ./tests && node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hrucker-com/crypto-security.git"
+  },
+  "keywords": [
+    "encryption",
+    "decryption",
+    "crypto",
+    "nodejs",
+    "file encryption",
+    "file decryption"
+  ],
+  "author": "hrucker-com",
+  "license": "MIT",
+  "dependencies": {}
+}
