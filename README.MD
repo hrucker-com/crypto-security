@@ -6,12 +6,6 @@ A simple Node.js module for encrypting and decrypting data and files.
 - Encrypt and decrypt text data.
 - Encrypt and decrypt files.
 
-## Installation
-
-```sh
-npm install
-```
-
 ## Usage
 
 ### Importing the Module
